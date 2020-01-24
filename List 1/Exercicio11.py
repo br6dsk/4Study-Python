@@ -1,4 +1,4 @@
-#author: Braian
+#author: brndsk
 print("")
 print("Doador de sangue")
 print("")
