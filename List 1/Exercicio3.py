@@ -1,4 +1,4 @@
-#author: Braian 
+#author: brndsk 
 print('')
 x1 = int(input("Digite o valor do ponto x1:"))
 y1 = int(input("Digite o valor do ponto y1:"))
