@@ -1,4 +1,4 @@
-#author: Braian 
+#author: brndsk 
 
 raio = 2
 pi = 3.14
