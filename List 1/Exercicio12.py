@@ -1,5 +1,5 @@
 #Coding: utf-8
-#author: Braian
+#author: brndsk
 print('')
 dia = int(input("Digite o dia: "))
 
