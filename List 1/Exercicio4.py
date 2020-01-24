@@ -1,4 +1,4 @@
-#author: Braian
+#author: brndsk
 print('')
 print("Juros, montante e etc")
 print('')
