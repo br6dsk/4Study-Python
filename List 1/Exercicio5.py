@@ -1,4 +1,4 @@
-#author: Braian
+#author: brndsk
 print("")
 print("Altura máxima de um projétil")
 print("")
